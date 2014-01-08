@@ -1,0 +1,16 @@
+==================================
+= CS21120 - Assignment 1: Sudoku =
+==================================
+By: Alexander Brown
+
+
+   Running
+=============
+To run, use the command
+  java -r dist/sudoku_solver.jar
+and follow the on screen commands.
+
+Troublshooting
+==============
+Make sure you are in the correct directory (<folder location>/adb9_cs21120_assignment1/java_code).
+Due to the way Java handles file systems it is difficult to predict where the sudokus directory will be.
